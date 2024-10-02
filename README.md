@@ -31,6 +31,8 @@ secara ringkas, skema dari SIR model adalah sebagai berikut:
 
 ![image](https://github.com/user-attachments/assets/a34fda6c-9676-4541-b68a-aa9ab6a74783)
 
+sehingga, kita akan tau bahwa **R0 = beta/gamma**
+
 ### cara cepat
 teman teman bisa dengan mudah memasukkan parameter melalui
 ```
